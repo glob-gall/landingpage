@@ -1,6 +1,4 @@
 import Image from "next/image"
-import { ReactNode } from "react"
-
 type ListProps = {
   title:string
   items:string[]
